@@ -1,0 +1,41 @@
+.nav-bar {
+  display: flex;
+  align-items: center;
+  background-color: #181b1f;
+}
+
+.nav-logo {
+  width: 40px;
+  margin: 0 20px;
+}
+
+h3 {
+  font-size: 2rem;
+  color: rgb(0, 221, 255);
+  margin-right: auto;
+}
+
+h4 {
+  font-size: 1.25rem;
+  color: rgb(245, 245, 245, 0.8);
+  margin-right: 20px;
+}
+
+.main-content {
+  margin-left: 20px;
+}
+
+h1 {
+  font-size: 3.25rem;
+}
+
+::marker {
+  color: rgb(0, 221, 255);
+  font-size: 1.5rem;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 1.15rem;;
+}
+
